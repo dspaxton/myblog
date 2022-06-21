@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Introduction"
+date:   2022-06-21 21:57:42 +0100
+categories: personal welcome 
+---
+
+
+I've been trying to maintain a blog for years. Always started with the best of intentions and never bothered keeping up with it. I'm going to try again this time and see if i can maintain a regular cadence of updates. 
+
+So who am I, I hear you ask. Well I'm Darren. I'm a techie at heart and I'm fortunate enough to work for [AWS][aws] as a Solutions Architect where its my job to help customers realise how the cloud can help them solve real world business challenges with the use of new technologies that let them focus on building new experiences for their customers without having to worry about the mundane tasks. 
+
+
+
+
+Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
+[aws]: https://aws.amazon.com/
